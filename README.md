@@ -4,7 +4,7 @@ spm_dcm_spm.m was used to build the seven dynamic causal models for each pair of
 
 func_dcm_BMA.m was used to derive the effective connectivity across 23 pairs of ROIs during the numerical working memory task.
 
-Folder DCM_results contains effective connectivity across the ROIs for each subject, during working memory encoding (M), maintenance (ME) and mainipulation (MCE), under social stress (C), or without the stress (NC) condition.
+Folder DCM_data contains effective connectivity across the ROIs for each subject, during working memory encoding (M), maintenance (ME) and mainipulation (MCE), under social stress (C), or without the stress (NC) condition.
 
 Pollution.xls contains the PM2.5 exposure over 6 months for each subject.
 
