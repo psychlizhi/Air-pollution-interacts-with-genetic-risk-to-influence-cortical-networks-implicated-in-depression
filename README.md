@@ -8,11 +8,11 @@ Folder DCM_results contains effective connectivity across the ROIs for each subj
 
 PM contains a vector of the PM2.5 exposure over 6 months for each subject (pollution.xlsx).
 
-Demographic, behavioral and genetic data were obtained from Zhang et al, Transl Psychiatry 2021 (https://www.nature.com/articles/s41398-021-01650-x)
+Demographic, behavioral and genetic data were obtained from Zhang et al, Transl Psychiatry 2021 (https://www.nature.com/articles/s41398-021-01650-x).
 
-The cortical ROIs were obtained from the human connectome project: https://www.humanconnectome.org/ (Glasser et al, 2016: https://www.nature.com/articles/nature18933)
+The cortical ROIs were obtained from the human connectome project: https://www.humanconnectome.org/ (Glasser et al, 2016: https://www.nature.com/articles/nature18933).
 
 The genes associated with depression were obtained from the table 2 in the GWAS study for depression by Wray et al (2018: https://www.nature.com/articles/s41588-018-0090-3).
 
-Gene expression data from each brain ROI were obtained from the Allen Human Brain Atlas: https://human.brain-map.org/static/download
+Gene expression data from each brain ROI were obtained from the Allen Human Brain Atlas: https://human.brain-map.org/static/download.
 
