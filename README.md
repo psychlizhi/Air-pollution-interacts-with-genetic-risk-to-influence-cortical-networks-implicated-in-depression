@@ -12,7 +12,7 @@ Demographic, behavioral and genetic data were obtained from Zhang et al, Transl 
 
 The cortical ROIs were obtained from the human connectome project: https://www.humanconnectome.org/ (Glasser et al, 2016: https://www.nature.com/articles/nature18933)
 
-The genes associated with depression were obtained from the table 2 in the GWAS study for depression by Wray et al (2018: (https://www.nature.com/articles/s41588-018-0090-3).
+The genes associated with depression were obtained from the table 2 in the GWAS study for depression by Wray et al (2018: https://www.nature.com/articles/s41588-018-0090-3).
 
 Gene expression data from each brain ROI were obtained from the Allen Human Brain Atlas: https://human.brain-map.org/static/download
 
