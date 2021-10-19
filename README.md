@@ -1,4 +1,4 @@
-This repository provides the main scirpts and data from the paper 'Air pollution interacts with genetic risk to influence cortical networks implicated in depression’. PNAS 2021
+This repository provides the main scirpts and data for the paper 'Air pollution interacts with genetic risk to influence cortical networks implicated in depression’. Li et al, PNAS 2021.
 
 spm_dcm_spm.m was used to build the seven dynamic causal models for each pair of ROIs for each subject.
 
@@ -6,7 +6,7 @@ func_dcm_BMA.m was used to derive the effective connectivity across 23 pairs of 
 
 Folder DCM_results contains effective connectivity across the ROIs for each subject, during working memory encoding (M), maintenance (ME) and mainipulation (MCE), under social stress (C), or without the stress (NC) condition.
 
-PM contains a vector of the PM2.5 exposure over 6 months for each subject (pollution.xlsx).
+Pollution.xls contains the PM2.5 exposure over 6 months for each subject.
 
 Demographic, behavioral and genetic data were obtained from Zhang et al, Transl Psychiatry 2021 (https://www.nature.com/articles/s41398-021-01650-x).
 
